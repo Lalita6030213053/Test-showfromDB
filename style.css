@@ -15,7 +15,7 @@ body {
     margin: 20px auto;
     padding: 30px;
     width: 980px;
-    border: 5px solid #273746;
+    border: 5px solid #74b5f1;
     text-align: center;
 }
 
@@ -29,12 +29,17 @@ table {
     border-collapse: collapse;
 }
 
-table,
 td {
+    
     text-align: left;
     padding: 20px;
 }
 
 label {
     padding-left: 50px;
+}
+
+.name {
+    display: block;
+
 }
